@@ -32,3 +32,7 @@ Once the program is running, you can interact with it using the following comman
 
 ## Author
 [afaq0456@gmail.com]
+
+## images
+![image](https://github.com/Afaq0456/WGU-C867/assets/54826698/2f424026-fa2d-4610-a0a0-f77b28c66c72)
+
